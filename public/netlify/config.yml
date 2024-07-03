@@ -7,15 +7,17 @@ media_folder: "public/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-- name: "blog" # Used in routes, e.g., /admin/collections/blog
-  label: "Blog" # Used in the UI
-  folder: "src/content/blog" # The path to the folder where the documents are stored
-  create: true # Allow users to create new documents in this collection
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  fields: # The fields for each document, usually in front matter
-    - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-    - { label: "Title", name: "title", widget: "string" }
-    - { label: "Publish Date", name: "date", widget: "datetime" }
-    - { label: "Featured Image", name: "thumbnail", widget: "image" }
-    - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
-    - { label: "Body", name: "body", widget: "markdown" } 
+  - name: "post"  # Adjust the name to match your content type (e.g., blog)
+    label: "Blog Post"  # User-friendly label for the collection
+    folder: "src/content/blog"  # Path to the folder containing your content
+    create: true  # Allow creating new posts
+    slug: "{{slug}}"  # Filename template for posts
+
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }  # Title field
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: true }  # Hero image
+      - { label: "Category", name: "category", widget: "categories", separoseparator: __, required: true, multiple: true }  # Category dropdown (replace [...] with actual options)
+      - { label: "Description", name: "description", widget: "string", required: true }  # Description
+      - { label: "Publication Date", name: "pubDate", widget: "datetime", required: true }  # Publication date
+      - { label: "Tags", name: "tags", widget: "list", list: true }  # Tags list
+      - { label: "Body", name: "body", widget: "markdown", required: true }  # Rich text body
