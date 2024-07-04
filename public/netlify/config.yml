@@ -3,8 +3,8 @@ backend:
   branch: main
   repo: JeremyPittard/decap-astro-starter
 
-media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "src/assets/images" # Media files will be stored in the repo under static/images/uploads
+public_folder: "../../assets/images" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
   - name: "post"  # Adjust the name to match your content type (e.g., blog)
@@ -16,7 +16,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }  # Title field
       - { label: "Hero Image", name: "heroImage", widget: "image", required: true }  # Hero image
-      - { label: "Category", name: "category", widget: "categories", separoseparator: __, required: true, multiple: true }  # Category dropdown (replace [...] with actual options)
+      - { label: "Category", name: "category", widget: "string", required: true, }  # Category dropdown (replace [...] with actual options)
       - { label: "Description", name: "description", widget: "string", required: true }  # Description
       - { label: "Publication Date", name: "pubDate", widget: "datetime", required: true }  # Publication date
       - { label: "Tags", name: "tags", widget: "list", list: true }  # Tags list
