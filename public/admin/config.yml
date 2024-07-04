@@ -1,10 +1,12 @@
 backend:
+  # name: git-gateway
   name: git-gateway
   branch: main
   repo: JeremyPittard/decap-astro-starter
 
 media_folder: "src/assets/images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "../../assets/images" # The src attribute for uploaded media will begin with /images/uploads
+publish_mode: editorial_workflow #
 
 collections:
   - name: "post"  # Adjust the name to match your content type (e.g., blog)
@@ -12,6 +14,8 @@ collections:
     folder: "src/content/blog"  # Path to the folder containing your content
     create: true  # Allow creating new posts
     slug: "{{slug}}"  # Filename template for posts
+    editor: 
+      preview: false
 
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }  # Title field
@@ -21,3 +25,27 @@ collections:
       - { label: "Publication Date", name: "pubDate", widget: "datetime", required: true }  # Publication date
       - { label: "Tags", name: "tags", widget: "list", list: true }  # Tags list
       - { label: "Body", name: "body", widget: "markdown", required: true }  # Rich text body
+  
+  - name: "site_settings"
+    label: "Site Settings"
+    folder: "src/content/site-settings"
+    create: false
+    editor: 
+      preview: false
+    delete: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Site Title", name: "title", widget: "string", required: true, hint: 'The name that will appear at top of the site' }
+      - { label: "Description", name: "description", widget: "string", required: true, hint: 'The description that will appear in the meta tags and social media' }
+      - {label: "Copyright by...", name: "copyright", hint: 'the copywritght message in the footer'}
+      - label: "Social Media"
+        name: "socialMedia"
+        widget: "object"
+        fields:
+          - {label: "Facebook", name: "facebook", widget: "string"}
+          - {label: "Twitter", name: "twitter", widget: "string"}
+          - {label: "LinkedIn", name: "linkedin", widget: "string"}
+          - {label: "Tiktok", name: "tiktok", widget: "string"}
+          - {label: "Github", name: "github", widget: "string"}
+          - {label: "noplace", name: "noplace", widget: "string"}
+          - {label: "other", name: "other", widget: "string"}
