@@ -5,7 +5,9 @@ category: categories are a bitch
 description: some description
 pubDate: 2024-07-04T09:37:00.000Z
 tags:
-  - adas
+  - tagone
+  - tag2
+  - tag3
 ---
 
 some body
