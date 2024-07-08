@@ -28,8 +28,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.0.8(typescript@5.2.2))(tailwindcss@3.3.5)
       '@pagefind/default-ui':
-        specifier: ^1.0.4
-        version: 1.0.4
+        specifier: ^1.1.0
+        version: 1.1.0
       '@tailwindcss/typography':
         specifier: 0.5.13
         version: 0.5.13(tailwindcss@3.3.5)
@@ -1256,8 +1256,8 @@ packages:
     cpu: [x64]
     os: [darwin]
 
-  '@pagefind/default-ui@1.0.4':
-    resolution: {integrity: sha512-edkcaPSKq67C49Vehjo+LQCpT615v4d7JRhfGzFPccePvdklaL+VXrfghN/uIfsdoG+HoLI1PcYy2iFcB9CTkw==}
+  '@pagefind/default-ui@1.1.0':
+    resolution: {integrity: sha512-+XiAJAK++C64nQcD7s3Prdmd5S92lT05fwjOxm0L1jj80jbL+tmvcqkkFnPpoqhnicIPgcAX/Y5W0HRZnBt35w==}
 
   '@pagefind/linux-arm64@1.0.3':
     resolution: {integrity: sha512-RGsMt4AmGT8WxCSeP09arU7Za6Vf/We4TWHVSbY7vDMuwWql9Ngoib/q1cP9dIAIMdkXh9ePG/S3mGnJYsdzuQ==}
@@ -7939,7 +7939,7 @@ snapshots:
   '@pagefind/darwin-x64@1.0.3':
     optional: true
 
-  '@pagefind/default-ui@1.0.4': {}
+  '@pagefind/default-ui@1.1.0': {}
 
   '@pagefind/linux-arm64@1.0.3':
     optional: true
