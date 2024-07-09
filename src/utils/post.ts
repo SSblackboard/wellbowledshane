@@ -1,4 +1,4 @@
-import { getCollection } from 'astro:content'
+import { getCollection, type CollectionEntry } from 'astro:content'
 
 export const getCategories = async () => {
 	const posts = await getCollection('blog')
@@ -36,4 +36,15 @@ export const getPostByTag = async (tag: string) => {
 export const filterPostsByCategory = async (category: string) => {
 	const posts = await getPosts()
 	return posts.filter((post) => post.data.category.toLowerCase() === category)
+}
+
+type SiteSettings = {
+	settings: CollectionEntry<'site-settings'>
+}
+export const getSettings = async (): Promise<SiteSettings> => {
+	const settingsCollection = await getCollection('site-settings')
+	const filteredSettings = settingsCollection.filter((post) => post.id === 'site-setttings.md')
+	const settings = filteredSettings[0] as CollectionEntry<'site-settings'>
+
+	return { settings }
 }

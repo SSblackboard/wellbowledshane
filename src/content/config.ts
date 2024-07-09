@@ -17,4 +17,14 @@ const blog = defineCollection({
 		})
 })
 
-export const collections = { blog }
+const siteSettings = defineCollection({
+	schema: ({ image }) =>
+		z.object({
+			siteTitle: z.string().max(144),
+			description: z.string(),
+			copyright: z.string(),
+			socialMedia: z.any()
+		})
+})
+
+export const collections = { blog, siteSettings }
