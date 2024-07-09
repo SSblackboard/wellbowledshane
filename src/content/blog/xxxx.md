@@ -1,6 +1,6 @@
 ---
 title: New blog post
-heroImage: ../../assets/images/3-p6070851.jpg
+heroImage: ../../assets/images/mv5bymjintvlmtitntuwos00ywfmlwfjywutzjy0yzkxzmvhmjbjxkeyxkfqcgdeqxvymti4mtk2nzmz._v1_.jpg
 category: Red Flags
 description: Lessons Learnt
 pubDate: 2024-07-04T14:57:00.000Z
