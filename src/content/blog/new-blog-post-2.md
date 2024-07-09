@@ -1,6 +1,6 @@
 ---
 title: New blog post 2
-heroImage: ../../assets/images/3-p6070851.jpg
+heroImage: ../../assets/images/mv5bymjintvlmtitntuwos00ywfmlwfjywutzjy0yzkxzmvhmjbjxkeyxkfqcgdeqxvymti4mtk2nzmz._v1_.jpg
 category: Investor Mindset
 description: Article about VC investing
 pubDate: 2024-07-04T15:17:00.000Z
