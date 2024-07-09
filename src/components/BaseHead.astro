@@ -35,11 +35,8 @@ import { AstroFont } from 'astro-font'
 <title>{siteTitle}</title>
 
 <!-- ViewTransitions  -->
-<style>
-	@view-transition {
-		navigation: auto; /* enabled! */
-	}
-</style>
+<ViewTransitions />
+
 <!-- SEO -->
 <meta name='title' content={siteTitle} />
 <meta name='description' content={description} />
