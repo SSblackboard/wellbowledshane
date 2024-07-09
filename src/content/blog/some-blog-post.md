@@ -1,6 +1,6 @@
 ---
 title: Some Blog Post
-heroImage: ../../assets/images/3-p6070851.jpg
+heroImage: ../../assets/images/mv5bymjintvlmtitntuwos00ywfmlwfjywutzjy0yzkxzmvhmjbjxkeyxkfqcgdeqxvymti4mtk2nzmz._v1_.jpg
 category: Thoughts
 description: some description
 pubDate: 2024-07-04T09:37:00.000Z
