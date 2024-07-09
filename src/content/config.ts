@@ -23,7 +23,8 @@ const siteSettings = defineCollection({
 			siteTitle: z.string().max(144),
 			description: z.string(),
 			copyright: z.string(),
-			socialMedia: z.any()
+			socialMedia: z.any(),
+			siteOwner: z.string()
 		})
 })
 

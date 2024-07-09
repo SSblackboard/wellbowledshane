@@ -3,17 +3,17 @@ import ListCategories from '@/components/ListCategories'
 import ListPosts from '@/components/ListPosts'
 import TitlePage from '@/components/TitlePage'
 import BaseLayout from '@/layouts/BaseLayout'
-import { getPosts, getSettings } from '@/utils'
+import { getPosts } from '@/utils'
+import { siteConfig } from '@/site-config'
 
 const MAX_POSTS = 5 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
-const settings = await getSettings().then(({ settings }) => settings.data)
 
-console.log(settings.socialMedia.facebook, 'here be some settings')
+const { title } = siteConfig
 ---
 
 <BaseLayout title='Home'>
-	<TitlePage title='Blog Title' />
+	<TitlePage title={title} />
 	<ListCategories />
 
 	<div>

@@ -15,7 +15,6 @@ collections:
     slug: "{{slug}}"  # Filename template for posts
     editor: 
       preview: false
-
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }  # Title field
       - { label: "Hero Image", name: "heroImage", widget: "image", required: true }  # Hero image
@@ -33,19 +32,24 @@ collections:
       preview: false
     delete: false
     slug: "{{slug}}"
+    identifier_field: title
     fields:
       - { label: "settings", name: "title", widget: "hidden", required: true, default: "site setttings", value: "settings" }
       - { label: "Site Title", name: "site_title", widget: "string", required: true, hint: 'The name that will appear at top of the site' }
       - { label: "Description", name: "description", widget: "string", required: true, hint: 'The description that will appear in the meta tags and social media' }
       - {label: "Copyright by...", name: "copyright", hint: 'the copywritght message in the footer'}
+      - {label: "Site Owner", name: "site_owner", required: true, widget: "string", hint: "the name of the owner of the site"}
+      - {label: "Post Share Message", name: 'share_message', required: false, hint: "text displayed when prompting users to share", widget: "string", default: "Share this post"}
+      - {label: "Enlarge first post on home page", name: 'firstBig', required: false, hint: "enlarges the first post shown on home page", widget: "boolean"}
+      - {label: "Pagination", name: "pagination", required: false, widget: "number", default: 6, hint: "number of posts displayed per page"}
       - label: "Social Media"
         name: "socialMedia"
         widget: "object"
         fields:
-          - {label: "Facebook", name: "facebook", widget: "string"}
-          - {label: "Twitter", name: "twitter", widget: "string"}
-          - {label: "LinkedIn", name: "linkedin", widget: "string"}
-          - {label: "Tiktok", name: "tiktok", widget: "string"}
-          - {label: "Github", name: "github", widget: "string"}
-          - {label: "noplace", name: "noplace", widget: "string"}
-          - {label: "other", name: "other", widget: "string"}
+          - {label: "Facebook", name: "facebook", widget: "string", required: false}
+          - {label: "Twitter", name: "twitter", widget: "string", required: false}
+          - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
+          - {label: "Tiktok", name: "tiktok", widget: "string", required: false}
+          - {label: "Github", name: "github", widget: "string", required: false}
+          - {label: "noplace", name: "noplace", widget: "string", required: false}
+          - {label: "other", name: "other", widget: "string", required: false}

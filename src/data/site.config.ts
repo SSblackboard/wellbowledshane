@@ -1,3 +1,6 @@
+import { getSettings } from '@/utils'
+import type { SocialMediaLinks } from 'src/utils/settings'
+
 interface SiteConfig {
 	author: string
 	title: string
@@ -6,14 +9,21 @@ interface SiteConfig {
 	ogLocale: string
 	shareMessage: string
 	paginationSize: number
+	socialMedia: SocialMediaLinks
+	firstBig: boolean
 }
 
+const { site_owner, site_title, description, share_message, firstBig, pagination, socialMedia } =
+	await getSettings()
+
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG', // Site author
-	title: 'Astro Theme OpenBlog', // Site title.
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', // Description to display in the meta tags
-	lang: 'en-GB',
-	ogLocale: 'en_GB',
-	shareMessage: 'Share this post', // Message to share a post on social media
-	paginationSize: 6 // Number of posts per page
+	author: site_owner || 'Jeremy Pittard', // Site author
+	title: site_title || 'decap starter blog', // Site title.
+	description: description || 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', // Description to display in the meta tags
+	lang: 'en-AU',
+	ogLocale: 'en_AU',
+	shareMessage: share_message || 'Share this post', // Message to share a post on social media
+	paginationSize: pagination || 6, // Number of posts per page
+	socialMedia: socialMedia,
+	firstBig: firstBig
 }
