@@ -8,11 +8,11 @@ site_owner: Shane Lavangna Slater
 share_message: Share this post
 socialMedia:
   facebook: https://www.facebook.com/Jpittardweb
-  twitter: ""
-  linkedin: ""
-  tiktok: ""
-  github: ""
-  noplace: ""
-  other: ""
+  twitter: ''
+  linkedin: ''
+  tiktok: ''
+  github: ''
+  noplace: ''
+  other: ''
 pagination: 6
 ---

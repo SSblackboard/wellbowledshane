@@ -2,10 +2,12 @@
 import HeaderLink from '@/components/HeaderLink'
 import TwitterIcon from '@/components/icons/TwitterIcon'
 import GithubIcon from '@/components/icons/GithubIcon'
+
 import MenuIcon from './icons/MenuIcon.astro'
 import Search from '@/components/Search'
 import TagIcon from './icons/TagIcon.astro'
 import ToggleTheme from './ToggleTheme.astro'
+import { siteConfig } from '@/data/site.config'
 
 // ADD YOUR SOCIAL NETWORKS HERE
 const SOCIALNETWORKS = [
@@ -21,11 +23,14 @@ const SOCIALNETWORKS = [
 		icon: TwitterIcon
 	}
 ]
+
+const { socialMedia } = siteConfig
+
+const socialMediaArry = Object.entries(socialMedia).map(([name, url]) => ({ name, url }))
 ---
 
 <header class='relative flex items-center h-12 font-semibold'>
 	<a class='text-lg mr-auto' href='/'>Home</a>
-
 	<div
 		id='astro-header-drawer'
 		class='shadow rounded-l-lg md:bg-transparent dark:md:bg-transparent bg-white dark:bg-[#0a0910] md:shadow-none md:rounded-none md:border-none md:h-auto md:static absolute transition-transform duration-300 ease-in translate-x-96 md:translate-x-0 top-12 -right-5 pl-4 pt-6 pb-4 md:p-0 h-[200px] w-[200px] z-50'
@@ -41,15 +46,21 @@ const SOCIALNETWORKS = [
 				</HeaderLink>
 			</div>
 
-			<div class='flex justify-center items-center md:justify-end gap-3 md:p-0'>
+			<!-- <div class='flex justify-center items-center md:justify-end gap-3 md:p-0'>
 				{
-					SOCIALNETWORKS.map((network) => (
-						<HeaderLink class='' href={network.url} target='_blank' aria-label={network.name}>
-							<span>{<network.icon />} </span>
-						</HeaderLink>
-					))
+					socialMediaArry.map((network) => {
+						if (!network.url) {
+							return
+						}
+
+						return (
+							<HeaderLink class='' href={network.url} target='_blank' aria-label={network.name}>
+								<span>{<GithubIcon />} </span>
+							</HeaderLink>
+						)
+					})
 				}
-			</div>
+			</div> -->
 		</nav>
 	</div>
 

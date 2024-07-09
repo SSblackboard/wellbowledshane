@@ -41,7 +41,9 @@ collections:
       - {label: "Site Owner", name: "site_owner", required: true, widget: "string", hint: "the name of the owner of the site"}
       - {label: "Post Share Message", name: 'share_message', required: false, hint: "text displayed when prompting users to share", widget: "string", default: "Share this post"}
       - {label: "Enlarge first post on home page", name: 'firstBig', required: false, hint: "enlarges the first post shown on home page", widget: "boolean"}
-      - {label: "Pagination", name: "pagination", required: false, widget: "number", default: 6, hint: "number of posts displayed per page"}
+      - { label: "Alert Banner", name: "alertBanner", widget: "string", required: false, hint: 'Text to display as a banner across the top of your site' }
+      - { label: "Footer Banner", name: "alertBanner", widget: "string", required: false, hint: 'Text to display as a banner above your footer' }
+
       - label: "Social Media"
         name: "socialMedia"
         widget: "object"

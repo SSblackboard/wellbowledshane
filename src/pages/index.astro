@@ -9,7 +9,7 @@ import { siteConfig } from '@/site-config'
 const MAX_POSTS = 5 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
 
-const { title } = siteConfig
+const { title, firstBig } = siteConfig
 ---
 
 <BaseLayout title='Home'>
@@ -18,7 +18,7 @@ const { title } = siteConfig
 
 	<div>
 		<h2 class='text-lg font-medium tracking-wide text-end'>Latest Posts</h2>
-		<ListPosts FirstBig={true} posts={posts} />
+		<ListPosts FirstBig={firstBig} posts={posts} />
 	</div>
 </BaseLayout>
 
