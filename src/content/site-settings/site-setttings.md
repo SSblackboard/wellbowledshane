@@ -5,7 +5,7 @@ description: things and stuff
 copyright: Shane Lavangna Slater
 site_owner: Shane Lavangna Slater
 share_message: Share this post
-pagination: 6
+ogImage: ../../assets/images/open-graph.png
 socialMedia:
   facebook: ""
   twitter: ""
@@ -14,4 +14,5 @@ socialMedia:
   github: ""
   noplace: ""
   other: ""
+pagination: 6
 ---
