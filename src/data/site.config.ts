@@ -11,10 +11,19 @@ interface SiteConfig {
 	paginationSize: number
 	socialMedia: SocialMediaLinks
 	firstBig: boolean
+	copyright: string
 }
 
-const { site_owner, site_title, description, share_message, firstBig, pagination, socialMedia } =
-	await getSettings()
+const {
+	site_owner,
+	site_title,
+	description,
+	share_message,
+	firstBig,
+	pagination,
+	socialMedia,
+	copyright
+} = await getSettings()
 
 export const siteConfig: SiteConfig = {
 	author: site_owner || 'Jeremy Pittard', // Site author
@@ -25,5 +34,6 @@ export const siteConfig: SiteConfig = {
 	shareMessage: share_message || 'Share this post', // Message to share a post on social media
 	paginationSize: pagination || 6, // Number of posts per page
 	socialMedia: socialMedia,
-	firstBig: firstBig
+	firstBig: firstBig,
+	copyright: copyright || 'JP'
 }

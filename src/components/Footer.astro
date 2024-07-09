@@ -1,7 +1,11 @@
 ---
+import { siteConfig } from '@/data/site.config'
+
 const today = new Date()
+const { copyright } = siteConfig
 ---
 
 <footer class='flex justify-center items-center w-full px-16 h-28 border-t-2'>
-	&copy; {today.getFullYear()} Shane Lavagna Slater All rights reserved.
+	&copy; {today.getFullYear()}
+	{copyright} All rights reserved.
 </footer>
