@@ -1,5 +1,5 @@
 ---
-site_title: WellBowledShane
+site_title: Well Bowled Shane
 ogImage: ../../assets/images/open-graph.png
 title: site setttings
 description: things and stuff
