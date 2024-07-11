@@ -12,7 +12,7 @@ footerBanner: Test Footer Banner
 socialMedia:
   facebook: https://www.facebook.com/shane.lavagnaslater
   twitter: ""
-  linkedin: https://www.linkedin.com/groups/14484615/
+  linkedin: https://www.linkedin.com/company/well-bowled-shane/
   tiktok: ""
   github: ""
   noplace: ""
