@@ -1,11 +1,37 @@
 ---
 import { siteConfig } from '@/data/site.config'
+import ExternalLink from './icons/ExternalLink.astro'
 
 const today = new Date()
-const { copyright } = siteConfig
+const { copyright, socialMedia } = siteConfig
+
+const socialMediaArray = Object.entries(socialMedia).map(([name, url]) => ({ name, url }))
 ---
 
-<footer class='flex justify-center items-center w-full px-16 h-28 border-t-2'>
-	&copy; {today.getFullYear()}
-	{copyright} All rights reserved.
+<footer class='flex justify-between w-full px-8 h-28 border-t-2 py-4'>
+	<p>
+		&copy; {today.getFullYear()}
+		{copyright} All rights reserved.
+	</p>
+	<ul>
+		{
+			socialMediaArray.map((site) => {
+				if (!site.url) return
+
+				return (
+					<li class='items-end px-2 py-1'>
+						<a
+							href={site.url}
+							target='_blank'
+							rel='noopener noreferrer'
+							class='flex items-center px-2 py-1'
+						>
+							<ExternalLink />
+							<span class='ml-1'>{site.name}</span>
+						</a>
+					</li>
+				)
+			})
+		}
+	</ul>
 </footer>
