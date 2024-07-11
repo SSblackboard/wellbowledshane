@@ -10,7 +10,7 @@ firstBig: true
 alertBanner: Test Alert Banner
 footerBanner: Test Footer Banner
 socialMedia:
-  facebook: https://www.facebook.com/shane.lavagnaslater
+  facebook: https://www.facebook.com/groups/842641497778992
   twitter: ""
   linkedin: https://www.linkedin.com/company/well-bowled-shane/
   tiktok: ""
