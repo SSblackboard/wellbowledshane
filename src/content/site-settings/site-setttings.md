@@ -12,7 +12,7 @@ footerBanner: Test Footer Banner
 socialMedia:
   facebook: https://www.facebook.com/Jpittardweb
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/shane-lavagna-slater-phd-gaicd-0664b620/
   tiktok: ""
   github: ""
   noplace: ""
