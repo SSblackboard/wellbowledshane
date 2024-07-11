@@ -11,11 +11,11 @@ alertBanner: Test Alert Banner
 footerBanner: Test Footer Banner
 socialMedia:
   facebook: https://www.facebook.com/shane.lavagnaslater
-  twitter: ''
-  linkedin: https://www.linkedin.com/in/shane-lavagna-slater-phd-gaicd-0664b620/
-  tiktok: ''
-  github: ''
-  noplace: ''
-  other: ''
+  twitter: ""
+  linkedin: https://www.linkedin.com/company/well-bowled-shane/
+  tiktok: ""
+  github: ""
+  noplace: ""
+  other: ""
 pagination: 6
 ---
