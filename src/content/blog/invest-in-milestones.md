@@ -1,5 +1,5 @@
 ---
-title: Invest in milestones
+title: "Investor Mindset - Invest in milestones "
 heroImage: ../../assets/images/invest-in-milestones.png
 category: Investor Mindset
 description: Invest (or don't) based on milestones linked to performance
