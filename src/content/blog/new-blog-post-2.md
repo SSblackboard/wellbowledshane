@@ -1,5 +1,5 @@
 ---
-title: Have an exit plan
+title: Investor Mindset - Have an exit plan
 heroImage: ../../assets/images/have-an-exit-plan.png
 category: Investor Mindset
 description: "An interesting theme I’ve noticed amongst successful investors,
