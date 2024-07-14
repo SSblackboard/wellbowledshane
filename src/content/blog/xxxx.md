@@ -1,7 +1,7 @@
 ---
-title: "Lesson - Sell shovels "
+title: "Lessons - Sell shovels "
 heroImage: ../../assets/images/selling-shovels.png
-category: Lesson
+category: Lessons
 description: "“During a gold rush, sell shovels” is a quote connected with the
   19th century Californian gold rush. There is a lot of articles on this
   subject, but the idea has stayed with me and influences both my investments
