@@ -19,10 +19,12 @@ Example found on Etsy:
 
 ![Pinky Ring from Etsy](../../assets/images/pinky-ring-etsy.avif "Pinky Ring")
 
-
-
 I have no direct and quantifiable evidence to support my theory, but whenever I meet or talk to a man who wears a Pinky ring, my spider senses flare up. I get a gut instinct that this person isn’t genuine and is driven greed. I get a sense that this person is avaricious, meaning they are driven and concerned solely with personal gain. The new word for the day is **avaricious** and it suggests that this person will do anything to achieve material gain, and in general, not a pleasant attribute. 
 
 It’s maybe a bias I have – sure it could be. It could be from experience – sure it could be. But listening to my gut instinct has worked out more than not for me. 
 
 Trust your gut, the little voice in your head, listen to reason and if you’re in doubt even the slightest – get independent third-party advice.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
