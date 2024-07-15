@@ -23,6 +23,8 @@ When investing or making any money decision, look at the exit plan. How will you
 
 If you’re investing in listed instruments (like shares on a stock exchange), it’s an easier thought – just sell them when I’ve reached my goal. But for unlisted or private investments, it’s a bit trickier. However, in both instances - Have an exit plan before you invest. 
 
-
-
 **Disclaimer:** This article should not be construed as being personal financial advice. It is general nature only and has not considered your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making any investment decisions.
+
+
+
+Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
