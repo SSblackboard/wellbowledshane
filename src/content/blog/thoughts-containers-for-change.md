@@ -44,6 +44,4 @@ Above is a snapshot on my recent mortgage activity. I also have a recurring $50 
 
 **Disclaimer:** Before you flare up… This article in no way intends to promote excessive drinking of either alcoholic beverages, sugary drinking or milk. Everything is moderation. The intended purpose is to promote savings or debt reduction as a by-product of preexisting behaviours.
 
-
-
-Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
