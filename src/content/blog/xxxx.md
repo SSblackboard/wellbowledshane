@@ -27,6 +27,8 @@ This seems like the boring or safe route to me, and it probably is. But I think 
 
 Nvidia could be a good example of selling shovels, albeit A.I. shovels. 
 
-
-
 [Transit Protocol, 2020. Business Modelling: Why Selling Shovels During a Gold Rush is the Surest Way to Make Money](https://medium.com/@transitprotocol/business-modelling-why-selling-shovels-during-a-gold-rush-is-the-surest-way-to-make-money-8fdf41f5bc1b)
+
+[](https://medium.com/@transitprotocol/business-modelling-why-selling-shovels-during-a-gold-rush-is-the-surest-way-to-make-money-8fdf41f5bc1b)
+
+[](https://medium.com/@transitprotocol/business-modelling-why-selling-shovels-during-a-gold-rush-is-the-surest-way-to-make-money-8fdf41f5bc1b)**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
