@@ -37,4 +37,4 @@ Check out this[ interesting transcript of a talk](https://www.firstlinks.com.au/
 
 This article is general nature only and has not taken into account your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making an investment decision.
 
-Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
