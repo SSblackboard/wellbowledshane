@@ -25,6 +25,4 @@ If you’re investing in listed instruments (like shares on a stock exchange), i
 
 **Disclaimer:** This article should not be construed as being personal financial advice. It is general nature only and has not considered your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making any investment decisions.
 
-
-
-Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
