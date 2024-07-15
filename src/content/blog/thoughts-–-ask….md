@@ -21,18 +21,38 @@ I try not to self-reject anymore; this is the act of pre-empting the rejection o
 
 Here’s my hit list:
 
-* 	Bank – mortgage,
-* 	Bank – credit card rate,
-* 	Car insurance, 
-* 	Home and content insurer,
-* 	Pet insurer,
-* 	Internet provider,
-* 	Mobile provider,
-* 	Gas provider,
-* 	Electricity provider
-
-
+* ```
+  Bank – mortgage,
+  ```
+* ```
+  Bank – credit card rate,
+  ```
+* ```
+  Car insurance, 
+  ```
+* ```
+  Home and content insurer,
+  ```
+* ```
+  Pet insurer,
+  ```
+* ```
+  Internet provider,
+  ```
+* ```
+  Mobile provider,
+  ```
+* ```
+  Gas provider,
+  ```
+* ```
+  Electricity provider
+  ```
 
 If you’re interested in a Harvard Business Review article on the difference between men and women in self -rejection, when it comes to job applications, read this article, super interesting:
 
 [Mohr, T. 2014. Why Women Don’t Apply for Jobs Unless They’re 100% Qualified. HBR.org.](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)
+
+[](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)
+
+[](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
