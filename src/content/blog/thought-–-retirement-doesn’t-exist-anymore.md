@@ -33,8 +33,10 @@ The idea of retirement for me, doesn’t exist. I’m going to be working in a j
 
 Check out this[ interesting transcript of a talk](https://www.firstlinks.com.au/lets-ditch-idea-retirement) by Professor Lynda Gratton of the London Business School. 
 
-
-
 **Disclaimer:** this article in no way, shape or form attempts to dissuade readers from savings towards retirement. Save towards retirement and save A LOT. The article proposes an idea to consider, one should plan to work and be productive much longer than the traditional idea of retirement. 
 
 This article is general nature only and has not taken into account your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making an investment decision.
+
+
+
+Enjoyed this article? Help keep the blog up my donating here: https://www.buymeacoffee.com/wellbowledshane
