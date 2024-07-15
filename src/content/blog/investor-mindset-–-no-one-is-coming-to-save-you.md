@@ -36,6 +36,4 @@ I’ve realised the way I do this will not come from one huge event, but through
 
 **I’m responsible for myself and my finances**, if that means I need to upskill myself or improve my understanding of something – that’s what I’ll do. I’m not waiting for the crowd or someone to magically appear to save me. No one looks after me – I look after myself and my ability to do so it is within my control.
 
-
-
 **Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
