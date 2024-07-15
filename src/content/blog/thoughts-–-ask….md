@@ -55,4 +55,4 @@ If you’re interested in a Harvard Business Review article on the difference be
 
 [](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)
 
-[](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane
+[](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified)**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
