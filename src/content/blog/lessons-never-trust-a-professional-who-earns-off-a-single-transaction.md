@@ -24,21 +24,35 @@ I may have trust issues but being this is built over time. A relationship offers
 
 **Estate Agents:** 
 
-* 	An estate agent that sells your house and earns a commission– I feel wants to close the deal. 
-* 	An estate agent that rents out your house – has a vested long-term interest in the performance of the rental income stream
+* ```
+  An estate agent that sells your house and earns a commission– I feel wants to close the deal. 
+  ```
+* ```
+  An estate agent that rents out your house – has a vested long-term interest in the performance of the rental income stream
+  ```
 
 **Recruiters:**
 
-* 	A recruiter who earns a commission from placing you in a permanent role – I feel wants to close the deal.
-* 	A recruiter who places you at an employer and earns an on-going commission just as long as you’re employed in your role. 
+* ```
+  A recruiter who earns a commission from placing you in a permanent role – I feel wants to close the deal.
+  ```
+* ```
+  A recruiter who places you at an employer and earns an on-going commission just as long as you’re employed in your role. 
+  ```
 
 **Share trading:**
 
-* 	A stockbroker who earns a commission on buying or selling shares for you – I feel wants to close the deal.
-* 	An asset manager who manages a portfolio of shares and is paid a performance fee when the portfolio has positive returns.  
-
-
+* ```
+  A stockbroker who earns a commission on buying or selling shares for you – I feel wants to close the deal.
+  ```
+* ```
+  An asset manager who manages a portfolio of shares and is paid a performance fee when the portfolio has positive returns.  
+  ```
 
 In each of the overly simplified examples above, there is a different level of invested interest between the parties. I’m super cautious when dealing with professional who want to close a deal – not all estate agents, recruiters or traders are the same. This thinking shapes my approach and I’ll be more cautious, more detailed and more pessimistic when dealing with a professional who earns off a single transaction.
 
 **Lesson:** Professionals who earn off a single transaction need to be played with caution (trust Is earned in building a relationship).
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
