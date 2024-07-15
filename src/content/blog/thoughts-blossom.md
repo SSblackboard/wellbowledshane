@@ -23,8 +23,6 @@ I’ve recently I came across Blossom (https://www.blossomapp.com/)
 
 ![Blossom](../../assets/images/blossom-1.jpg "Blossom")
 
-
-
 2. **They pay interest into your account daily.** This is the feature that has my kids super interested in savings. Each day they ask me to log in to check their balance (which is combined and, in my name) and the daily interest they’ve earned. As you can see, they earn a whopping 15c a day at the moment. But it’s paid out (or should I say) added to their balance daily. My kids can see their savings growing each day. 
 
 ![Blossom ](../../assets/images/blossom-2.jpg "Blossom")
@@ -39,6 +37,8 @@ https://ref.blossomapp.com/register/7sU3atxQoV9NYnmy5
 
 ![Blossom](../../assets/images/blossom-3.jpg "Blossom")
 
- 
-
 **Disclaimer:** this is not intended to be financial advice, but merely an article to tell you about what choices I’ve made. Nothing in this website should be construed as being personal financial advice. It is general nature only and has not taken into account your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making an investment decision. Please remember: any investment returns are not guaranteed, and no assurances can be made regarding performance. Distributions from Blossom or its funds to investors may be lower than targeted and may vary. Past performance of the Fund is not a reliable indicator of future performance. No performance is forecast.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
