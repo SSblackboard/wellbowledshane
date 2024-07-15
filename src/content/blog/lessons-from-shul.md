@@ -19,3 +19,7 @@ At one point the Rabbi began to give his derasha, in Judaism, a homily or sermon
 At first, I thought, this story has no place in a place of worship. But then the Rabbi explained that the story is about being in the game, participating, and putting yourself into the best possible position to one be lucky. Its about being in it to win it.
 
 I took the notion of “buying a ticket and being in the game” into investing, you can’t earn interest or see your shares grow if you’re not invested. You have to be in a share to reap the rewards, you have to invest to earn that invest. By sitting on the sidelines, you’re not going to win the lottery and similarly the more you practice the luckier you’ll be.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
