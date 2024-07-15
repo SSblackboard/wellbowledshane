@@ -22,7 +22,7 @@ I’ve realised the way I do this will not come from one huge event, but through
 1.    
 
    ```
-   1.	Start small, start big, start tomorrow – but start. 
+   Start small, start big, start tomorrow – but start. 
    ```
 
     
