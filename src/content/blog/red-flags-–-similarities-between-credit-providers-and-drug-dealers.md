@@ -22,6 +22,8 @@ Happy and content with their actions the credit card client goes a few more week
 
 I’m not saying credit providers and drug dealers are the same… but in my opinion there are similarities between them that raise Red Flags for me. The Red Flag for me is that nothing is ‘free’ its all a hook with the aim of getting me to do something in the future that’s most likely going to benefit the other party more than it will benefit me. 
 
-
-
 **Disclaimer**: as you can see, I’m not a fan of credit card providers. I don’t know any drug dealers personally but assume some of them are nice people – the product they sell is generally a societal negative and does harm. The moral of my story and opinion is: watch out for ‘offers’ and ‘approaches’ that these two groups use and guard yourself against them.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
