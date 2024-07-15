@@ -22,3 +22,7 @@ My ‘give back’ was to act as a financial safety if required for those closes
 That besides the point, the capitalist idea of doing financially well was deeply ingrained in my outlook on life. The belief that if I did extraordinarily well, I’d be benefitting not only my family but my community at large. My family’s prospects in life would be better and my community would indirectly benefit from more service provision due to increased tax revenue. 
 
 I’ve realised I’m not going to have Elon Musk money, but I’ll aim to be the Elon Musk of my family. Minus some of the radical ideology and actions. I’ll outwork competitors to make sure I achieve my goal of providing the best prospects for my family as possible and for me that’s enough of a win-win.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
