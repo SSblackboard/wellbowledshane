@@ -26,6 +26,8 @@ If I feel like I’m being pressured into making an investment, I ask myself my 
 
 Passing on an investment and saying: ***“Thanks but no thanks”*** has turned out to be some of the best investment calls I’ve made. 
 
-
-
 *If you have a chance, read this case study: Gompers, Paul A., William Gornall, Steven N. Kaplan, and Ilya A. Strebulaev. "How Do Venture Capitalists Make Decisions?" NBER Working Paper Series, No. 22587, September 2016.*
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
