@@ -25,6 +25,8 @@ I’ve realised the power of relationship building and the doors this opens. Not
 
 It takes a while when anyone new comes into my circle or network for me to trust them. Its funny when I receive spam or scam emails and straight away, they are trying to convince me that its alright to trust them and take them at their word. I know we’ve just met but trust me anyway.  
 
-
-
 **Disclaimer:** This article in no way promotes the membership of criminal gangs, if that is what you got out of the article – please reread it. The point is to build relationships, expand networks and to earn those networks trust and vice versa.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
