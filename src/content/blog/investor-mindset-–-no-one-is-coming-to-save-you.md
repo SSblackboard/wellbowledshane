@@ -19,7 +19,13 @@ I’m trying to make considered, and well-planned financial decisions – not to
 
 I’ve realised the way I do this will not come from one huge event, but through a million tiny events. It’s through small decision each pay cycle that will get me to where I want to be. Saving comes from small deposits each pay cycle that over time build up. Its small extra payments onto my mortgage. It’s through avoiding bad expenses one at a time, that I’m going to get to where I want to be. I follow three rules: 
 
-1. \    Start small, start big, start tomorrow – but start. 
+1.    
+
+   ```
+   1.	Start small, start big, start tomorrow – but start. 
+   ```
+
+    
 
    * Habits build over time, but you need to start. Anywhere. 
 2. ```
