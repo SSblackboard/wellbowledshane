@@ -1,5 +1,5 @@
 ---
-title: "Thought – Retirement doesn’t exist anymore "
+title: "Thoughts – Retirement doesn’t exist anymore "
 heroImage: ../../assets/images/retirement.png
 category: Thoughts
 description: "Am I the only one who thinks the idea of retirement, that is,
