@@ -2,7 +2,7 @@
 site_title: Well Bowled Shane
 ogImage: ../../assets/images/open-graph.png
 title: site setttings
-description: things and stuff
+description: Personal Finance Blog
 copyright: Well Bowled Shane
 site_owner: Shane Lavagna-Slater
 share_message: Share this post
