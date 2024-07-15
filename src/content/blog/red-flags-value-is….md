@@ -21,10 +21,12 @@ The difference in value in the Buy Nothing Facebook groups and the Ghanaians tra
 
 **For me it looks like this:** 
 
-* 	If there I have a high utility (high satisfaction levels), the more likely I am going to persist or continue as is and the low likelihood I’ll change course.  
-* 	If there I have a low utility (low satisfaction levels), the less likely I am going to persist or continue as is and the higher likelihood I’ll change course.  
-
-
+* ```
+  If there I have a high utility (high satisfaction levels), the more likely I am going to persist or continue as is and the low likelihood I’ll change course.  
+  ```
+* ```
+  If there I have a low utility (low satisfaction levels), the less likely I am going to persist or continue as is and the higher likelihood I’ll change course.  
+  ```
 
 An example of this would be an established business is making heaps of money selling product A, there would be an incentive to persist or maintain the status quo as long as possible to extract as much profits as possible. A start-up wanting to disrupt the established business wants to do everything it can to break the status quo to reveal a new way of doing things, so it can one day make heaps of money selling product B. 
 
@@ -43,3 +45,7 @@ I find this equally hilarious and horrifying, other meanings of the word delusio
 I suppose that if when I’m looking at an investment, I need to consider what Kool-Aid I’m drinking to get me to the share delusional state contains – i.e. what assumptions I’m willing to accept or reject. 
 
 **Value is a shared delusion – be cautious.**
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
