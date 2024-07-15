@@ -28,6 +28,8 @@ If there is a staged flow of investment to the business, there is an incentive f
 
 If I have an opportunity to invest, I follow a similar process. I usually don’t jump all in at the beginning, I invest over time and consider the evidence (performance) of the company as new information to inform my next round (if any) of investment. With listed investments, there is more information and history available to make investment decisions but with private / unlisted businesses – I feel the risks associated with these are higher. 
 
-
-
 **Disclaimer:** this is not intended to be financial advice, but merely an article to tell you about what choices I’ve made and approaches I take. Nothing in this website should be construed as being personal financial advice. It is general nature only and has not taken into account your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making an investment decision.
+
+
+
+**Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
