@@ -8,6 +8,7 @@ tags:
   - Investors
   - self-reliance
   - TakeControl
+  - InvestorMindset
 ---
 This article is not about religion, it’s about a mindset of self-reliance. 
 
