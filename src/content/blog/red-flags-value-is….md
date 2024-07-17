@@ -10,6 +10,7 @@ tags:
   - Valuation
   - Investing
   - VentureCapital
+  - RedFlags
 ---
 In the finance classes I teach at University, I often arrive at a debate about value. What is it? What’s the definition of value? And how do investors, like Venture Capitalists and Private Equity investors add value to their investments? 
 
