@@ -8,6 +8,7 @@ tags:
   - Investor
   - Milestones
   - PrivateEquity
+  - InvestorMindset
 ---
 Private Equity investors generally make investments in a company by agreeing up front to a dollar value (based on the total value of the company) and equity stake (how much of the company they will own). Much like you’ll see on investor shows like ‘Shark Tank’ or ‘Dragons Den’. An entrepreneur is looking to raise money and wealthy investors are looking to invest in the next big idea or at least a company that will in the future make them more money. 
 
