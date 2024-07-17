@@ -10,6 +10,7 @@ tags:
   - PinkyRing
   - RedFlags
   - Trust
+  - Humour
 ---
 I don’t know why this is true for me and it’s a weird one. I have never and will never fully trust a man who wears a Pinky ring – this is a ring or any sort on their baby (outside finger). Yes, this is solely a male gender issue – directed only at men, so excuse me for this. 
 
