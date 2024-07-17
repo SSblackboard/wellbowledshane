@@ -10,6 +10,7 @@ tags:
   - WarrenBuffet
   - DecisionMaking
   - Inertia
+  - InvestorMindset
 ---
 Whenever I teach a finance class I try to throw in this question, what separates you from Warren Buffet? How are you different? The naturally first answer is the billions of dollar difference in net wealth… sure. 
 
