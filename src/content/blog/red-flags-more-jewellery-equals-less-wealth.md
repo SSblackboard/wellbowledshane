@@ -8,6 +8,8 @@ tags:
   - Wealth
   - Jewellery
   - Image
+  - RedFlags
+  - Humour
 ---
 I know what you are thinking, not another jewellery post and what does this guy have against people wearing Jewellery? And I get it, but this is happening and is a real thing – in my head. 
 
