@@ -43,8 +43,6 @@ I’d split my winnings over these categories:
 
 •	Live off
 
-
-
 Firstly, I’d **donate** 15% of all the winnings. When I say donate I mean, give some to charities or causes that are close to my heart as well as share the money with my family and friends. Family and friends would receive 10% and two charities would receive $2,500,000 each and these charities would be [Kids Telethon Institute](https://www.telethonkids.org.au/), an independent not-for-profit, non-government organisation with close affiliations with the University of Western Australia and the Perth Children's Hospital and an organisation called [No Pup Cleft Behind](https://www.nopupcleftbehind.com/) – a puppy rescue organisation located in Western Australia. I’d also donate my time to these organisations, if they’d have me on their boards. 
 
 **Personal housing**, I’d pay off my current mortgage. Buy a piece of land with an ocean view and build my dream house. I’d also buy a holiday house in the Margaret River region, probably Dunsborough – Gods Country that part of the world. This would be 6.5% of the winnings.
@@ -61,15 +59,11 @@ I’d then take 10% of the winnings and invest into what I call **Interventions*
 
 ![Jeffery Sachs](../../assets/images/jeffery-sachs.jpg "The End of Poverty")
 
-
-
 So, making wholistic investments to target poverty should yield better results. With a $10 million fund to intervene, I’d target a small number of deserving families and invest in housing, schooling (for the kids), food security, skills development (for the parents) and health. How’d I select the families? I have no idea, but it would not involve the government, it would be funded directly and indirectly through not for profits. Something like this: Buy a house for a family to live in rent free for 3 years, send kids to good schools, send parents to vocational or university training, pay for food and health expenses. Enable the family to reset, retool, reskill and progress out of poverty, that is take themselves out of poverty. Time is limited so the family would need to commit and take advantage of the opportunity. I haven’t yet figured out to make this sustainable, so take it becomes self-funding. The $10 million will eventually run out. 
 
 Lastly, I’d allocate $7.5 million to on **call deposits** at banks and other financial institutions to earn monthly interest to live off. These would be held at the largest and most stable banks to earn a steady income stream. Currently the rate at Macquarie I year investment term with interest paid out monthly would earn about $325,000. Yep, that’s an annual salary I can definitely see myself spending – especially since there would be now work involved. 
 
 ![Lottery Winnings Allocation](../../assets/images/lottery-winnings.jpg "Lottery Winning Allocation")
-
-
 
 **The goal would be to balance philanthropic endeavours with ensuring that the lottery winnings last.** A target weighted earnings of 8% per annum across the investment categories should ensure a steady growth rate and enough to live comfortably – very comfortably. 
 
@@ -77,14 +71,8 @@ I’d spread the winnings across a number of asset classes, and across a number 
 
 I also think, that once I’ve invested the funds into their different areas. I’d take my family and friends on an epic holiday. Probably use some of the funds out of the call deposits to hire a plane to fly to Fiji of somewhere similar for a bit of R&R. 
 
-
-
 **Disclaimer:** If you win the lottery Powerball jackpot – get financial advice from a professional, licensed and trusted financial planner. That’s what I’d do. This article is general nature only and has not taken into account your particular circumstances, objectives, financial situation or needs. You should consider whether the information, strategies and investments are appropriate and suitable for you or seek personal advice from a licensed financial planner before making an investment decision.
 
-
-
 Sachs, J. 2005. The end of poverty, how we can make it happen in our lifetime. Penguin Books.
-
-
 
 **Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
