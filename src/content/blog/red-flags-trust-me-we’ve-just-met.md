@@ -10,6 +10,7 @@ tags:
   - Relationships
   - PrivateEquity
   - Deals
+  - RedFlags
 ---
 What do Private Equity (PE) investors and criminal gangs have in common you ask… or may not have asked but I’ll tell you anyway. 
 
