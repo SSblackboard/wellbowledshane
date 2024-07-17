@@ -11,6 +11,7 @@ tags:
   - Trust
   - Relationships
   - Motivations
+  - Lessons
 ---
 I’ve always been sceptical of any professional that earns their income off a single transaction and not from an on-going relationship that is built on performance. By this I mean those brokers or intermediaries that get paid form a once off deal. 
 
