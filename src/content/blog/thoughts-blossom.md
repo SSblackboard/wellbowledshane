@@ -8,6 +8,7 @@ tags:
   - Savings
   - Blossom
   - Interest
+  - Thoughts
 ---
 Last year I decided to open bank accounts for my kids aged 7 and 10. I thought it’s time to introduce them to and teach them about banking, savings and especially earning interest. Just opening these bank accounts at a big four bank was an administrative ordeal that I’m not just ready to talk about… 
 
