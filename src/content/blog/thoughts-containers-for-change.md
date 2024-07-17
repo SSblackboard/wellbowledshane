@@ -10,6 +10,7 @@ tags:
   - Recycling
   - Mortgage
   - Thoughts
+  - Humour
 ---
 I don’t know about you or if I’m alone in this weird money habit quirk of mine… 
 
