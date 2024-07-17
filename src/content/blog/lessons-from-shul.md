@@ -9,6 +9,7 @@ tags:
   - Shul
   - HaveToBeInIt
   - Lottery
+  - Humour
 ---
 I’m not overly religious, I grew up in a Catholic home and consider myself Catholic – most definitely not the best Catholic I admit. My wife is Anglican, and my late father-in-law was Jewish, and my late mother-in-law was Anglican. My wife’s uncle is a practicing Jew and his wife, and sons are practices Jews. When my wife’s cousins turned 13, they celebrated their Bar mitzvah, it was my first opportunity to attend Shul and my first Bar mitzvah.
 
