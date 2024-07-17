@@ -10,6 +10,7 @@ tags:
   - Retirement
   - Savings
   - Earning
+  - Thoughts
 ---
 Am I the only one who thinks the idea of retirement, that is, working my whole life, saving up to fund time doing hobbies around the house or neighbourhood is a thing of the past. I have this notion in my head that retirement means sitting around watching TV, gardening, going for coffee and really just chilling out all day – everyday. 
 
