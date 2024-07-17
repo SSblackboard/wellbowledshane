@@ -9,10 +9,11 @@ tags:
   - Urgency
   - Investments
   - Opportunities
+  - InvestorMindset
 ---
 When I’m are considering making an investment, urgency and speed to make a decision, are not my friend. If I’m under time pressure to decide about investing my hard-earned money without enough time to conduct a due diligence – pass on it. 
 
-Richard Branson famously said, “Business opportunities are like buses, there’s always another one coming.” 
+Richard Branson famously said, **“Business opportunities are like buses, there’s always another one coming.”** 
 
 Without a detailed due diligence, third party verified data, references, advise and research – I feel like I’m going into an investment blind. Not knowing about potential problems and issues I should have uncovered early before parting with my money. The problem is once I’ve invested the horse has bolted and I’ll be playing catch up or working to try fix problems that If I had known early on – I wouldn’t have invested.  
 
@@ -27,7 +28,5 @@ If I feel like I’m being pressured into making an investment, I ask myself my 
 Passing on an investment and saying: ***“Thanks but no thanks”*** has turned out to be some of the best investment calls I’ve made. 
 
 *If you have a chance, read this case study: Gompers, Paul A., William Gornall, Steven N. Kaplan, and Ilya A. Strebulaev. "How Do Venture Capitalists Make Decisions?" NBER Working Paper Series, No. 22587, September 2016.*
-
-
 
 **Enjoyed this article? Help keep the blog up by donating here: https://www.buymeacoffee.com/wellbowledshane**
