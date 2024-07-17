@@ -8,6 +8,7 @@ tags:
   - Money
   - PayCheque
   - LifeHours
+  - Thoughts
 ---
 This is how I think of money…
 
