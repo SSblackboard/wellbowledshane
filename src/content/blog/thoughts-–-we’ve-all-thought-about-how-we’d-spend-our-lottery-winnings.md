@@ -12,7 +12,6 @@ tags:
   - Lottery
   - Investments
   - Winning
-  - ""
 ---
 I don’t know about you but each time I buy a lottery ticket, which I admit is probably more often that it ought to be, I can’t hep but wonder what I would do with the winnings. I bought a ticket for the Powerball jackpots that was $100 million. Imagine what you could do with that amount of money…
 
