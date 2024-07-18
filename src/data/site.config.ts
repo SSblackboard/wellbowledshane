@@ -12,6 +12,7 @@ interface SiteConfig {
 	socialMedia: SocialMediaLinks
 	firstBig: boolean
 	copyright: string
+	ga_id: string
 }
 
 const {
@@ -22,7 +23,8 @@ const {
 	firstBig,
 	pagination,
 	socialMedia,
-	copyright
+	copyright,
+	ga_id
 } = await getSettings()
 
 export const siteConfig: SiteConfig = {
@@ -35,5 +37,6 @@ export const siteConfig: SiteConfig = {
 	paginationSize: pagination || 6, // Number of posts per page
 	socialMedia: socialMedia,
 	firstBig: firstBig,
-	copyright: copyright || 'JP'
+	copyright: copyright || 'JP',
+	ga_id: ga_id
 }

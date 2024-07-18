@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  # name: github
+  # name: git-gateway
+  name: github
   branch: main
   repo: JeremyPittard/decap-astro-starter
 
@@ -43,6 +43,7 @@ collections:
       - {label: "Enlarge first post on home page", name: 'firstBig', required: false, hint: "enlarges the first post shown on home page", widget: "boolean"}
       - { label: "Alert Banner", name: "alertBanner", widget: "string", required: false, hint: 'Text to display as a banner across the top of your site' }
       - { label: "Footer Banner", name: "footerBanner", widget: "string", required: false, hint: 'Text to display as a banner above your footer' }
+      - {label: "Google Analytics Identifier", name: "ga_id", widget: "string", required: false, }
 
       - label: "Social Media"
         name: "socialMedia"

@@ -9,6 +9,7 @@ export type siteSettings = {
 	firstBig: boolean
 	pagination: number
 	socialMedia: SocialMediaLinks
+	ga_id: string
 }
 
 export type SocialMediaLinks = {

@@ -4,9 +4,12 @@ import sitemap from '@astrojs/sitemap'
 import tailwind from '@astrojs/tailwind'
 import { remarkReadingTime } from './src/utils/readTime.ts'
 
+import partytown from '@astrojs/partytown'
+
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://wellbowledshane.com', // Write here your website url
+	site: 'https://wellbowledshane.com',
+	// Write here your website url
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
 		drafts: true,
@@ -28,6 +31,11 @@ export default defineConfig({
 			drafts: true
 		}),
 		sitemap(),
-		tailwind()
+		tailwind(),
+		partytown({
+			config: {
+				forward: ['dataLayer.push']
+			}
+		})
 	]
 })

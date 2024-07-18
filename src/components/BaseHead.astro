@@ -2,6 +2,7 @@
 import { siteConfig } from '@/site-config'
 import '../styles/global.css'
 import { ViewTransitions } from 'astro:transitions'
+import GTag from '@/components/GTag'
 
 export interface Props {
 	title: string
@@ -17,6 +18,7 @@ const socialImageURL = new URL(ogImage ? ogImage : '/open-graph.png', Astro.url)
 const titleSeparator = '•'
 
 const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`
+const ga_id = siteConfig.ga_id
 
 import { join } from 'path'
 import { AstroFont } from 'astro-font'
@@ -41,7 +43,7 @@ import { AstroFont } from 'astro-font'
 <meta name='title' content={siteTitle} />
 <meta name='description' content={description} />
 <meta name='author' content={siteConfig.author} />
-
+{ga_id ? <GTag /> : null}
 <!-- Open Graph / Facebook -->
 <meta property='og:type' content={articleDate ? 'article' : 'website'} />
 <meta property='og:url' content={Astro.url} />
