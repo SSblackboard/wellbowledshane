@@ -34,7 +34,7 @@ I reflect on my decision making a bit and if I made the right calls and if not �
 
 I’ve realized not deciding is really a decision point too. It just comes with inaction or inertia. In Physics, Inertia is defined as: “a property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.” Feels to me that sometimes when I don’t decide, I’m floating along and potentially not in the driver’s seat. 
 
-I’ve concluded that not making a decision, is also making a decision. In my case and generally: If it’s not a yes, it’s a no.
+I’ve concluded that not making a decision, is also making a decision. In my case and generally: If it’s not a yes, it’s a no. 
 
 I found this article pretty interesting: [“Warren Buffett Believes 1 Big Decision in Life Will Be the Difference Between Succeeding and Failing, by Michael Schwantes – 9 July 2024. ](https://www.inc-aus.com/marcel-schwantes/warren-buffett-believes-1-big-decision-in-life-will-lead-to-success.html#:~:text=Buffett%20once%20said%2C%20%22You%20only,solid%2C%20wise%20choices%20every%20day.)
 
