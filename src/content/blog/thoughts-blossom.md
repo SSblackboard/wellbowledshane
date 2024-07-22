@@ -3,7 +3,7 @@ title: Thoughts - Blossom
 heroImage: ../../assets/images/blossom-logo.png
 category: Thoughts
 description: It all matters, the 15c a day matters!
-pubDate: 2024-07-14T18:43:00.000Z
+pubDate: 2024-07-26T02:43:00.000Z
 tags:
   - Savings
   - Blossom
