@@ -5,7 +5,7 @@ category: Red Flags
 description: "I don’t know why this is true for me and it’s a weird one. I have
   never and will never fully trust a man who wears a Pinky ring – this is a ring
   or any sort on their baby (outside finger). "
-pubDate: 2024-07-14T18:16:00.000Z
+pubDate: 2024-07-03T02:16:00.000Z
 tags:
   - PinkyRing
   - RedFlags
