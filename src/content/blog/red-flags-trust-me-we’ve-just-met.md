@@ -4,7 +4,7 @@ heroImage: ../../assets/images/trust-me.png
 category: Red Flags
 description: "What do Private Equity (PE) investors and criminal gangs have in
   common you ask… or may not have asked but I’ll tell you anyway. "
-pubDate: 2024-07-14T18:32:00.000Z
+pubDate: 2024-07-05T02:32:00.000Z
 tags:
   - Trust
   - Relationships
