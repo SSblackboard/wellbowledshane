@@ -6,7 +6,7 @@ description: "I’ve always been sceptical of any professional that earns their
   income off a single transaction and not from an on-going relationship that is
   built on performance. By this I mean those brokers or intermediaries that get
   paid form a once off deal. "
-pubDate: 2024-07-14T17:53:00.000Z
+pubDate: 2024-07-19T01:53:00.000Z
 tags:
   - Trust
   - Relationships
