@@ -4,7 +4,7 @@ heroImage: ../../assets/images/urgency-is-not-your-friend.png
 category: Investor Mindset
 description: When I’m are considering making an investment, urgency and speed to
   make a decision, are not my friend.
-pubDate: 2024-07-14T17:31:00.000Z
+pubDate: 2024-07-16T01:31:00.000Z
 tags:
   - Urgency
   - Investments
