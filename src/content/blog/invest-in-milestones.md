@@ -3,7 +3,7 @@ title: "Investor Mindset - Invest in milestones "
 heroImage: ../../assets/images/invest-in-milestones.png
 category: Investor Mindset
 description: Invest (or don't) based on milestones linked to performance
-pubDate: 2024-07-14T17:21:00.000Z
+pubDate: 2024-07-18T01:21:00.000Z
 tags:
   - Investor
   - Milestones
