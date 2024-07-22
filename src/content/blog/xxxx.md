@@ -6,7 +6,7 @@ description: "“During a gold rush, sell shovels” is a quote connected with t
   19th century Californian gold rush. There is a lot of articles on this
   subject, but the idea has stayed with me and influences both my investments
   and career moves. "
-pubDate: 2024-07-04T14:57:00.000Z
+pubDate: 2024-07-11T22:57:00.000Z
 tags:
   - Lessons
   - GoldRush
