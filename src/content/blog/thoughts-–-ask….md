@@ -3,7 +3,7 @@ title: Thoughts – Ask…
 heroImage: ../../assets/images/ask.png
 category: Thoughts
 description: "Ask, what’s the worst that can happen? "
-pubDate: 2024-07-14T18:38:00.000Z
+pubDate: 2024-07-07T02:38:00.000Z
 tags:
   - Thoughts
   - Ask
