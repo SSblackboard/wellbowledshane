@@ -4,7 +4,7 @@ heroImage: ../../assets/images/value.png
 category: Red Flags
 description: "In the finance classes I teach at University, I often arrive at a
   debate about value. What is it? "
-pubDate: 2024-07-14T18:35:00.000Z
+pubDate: 2024-07-08T02:35:00.000Z
 tags:
   - Value
   - Valuation
