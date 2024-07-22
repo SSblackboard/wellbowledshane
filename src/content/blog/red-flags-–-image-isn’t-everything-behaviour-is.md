@@ -5,7 +5,7 @@ category: Red Flags
 description: In my younger years, I used to be impressed with image. How a
   person dressed, what car they drove, what suburb they lived in, the title of
   their job…etc
-pubDate: 2024-07-23T06:00:00.000Z
+pubDate: 2024-07-09T14:00:00.000Z
 tags:
   - RedFlags
   - Image
