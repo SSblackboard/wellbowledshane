@@ -3,7 +3,7 @@ title: Thoughts - This is how I think about money
 heroImage: ../../assets/images/life-hours.png
 category: Thoughts
 description: I’m exchange my finite life for a pay cheque
-pubDate: 2024-07-04T14:52:00.000Z
+pubDate: 2024-07-13T22:52:00.000Z
 tags:
   - Money
   - PayCheque
