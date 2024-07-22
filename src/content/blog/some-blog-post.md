@@ -4,7 +4,7 @@ heroImage: ../../assets/images/positive-family.png
 category: Lessons
 description: This is probably a pedantic post, I’ll admit. But its important to
   me and I think holds a valuable lesson that I aim to pass down to my kids.
-pubDate: 2024-07-04T09:37:00.000Z
+pubDate: 2024-07-10T17:37:00.000Z
 tags:
   - Lessons
   - ZeroWaste
