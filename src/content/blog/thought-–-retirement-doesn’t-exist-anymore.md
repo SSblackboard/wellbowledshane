@@ -5,7 +5,7 @@ category: Thoughts
 description: "Am I the only one who thinks the idea of retirement, that is,
   working my whole life, saving up to fund time doing hobbies around the house
   or neighbourhood is a thing of the past. "
-pubDate: 2024-07-14T19:03:00.000Z
+pubDate: 2024-07-01T03:03:00.000Z
 tags:
   - Retirement
   - Savings
