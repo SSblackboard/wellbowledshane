@@ -4,7 +4,7 @@ heroImage: ../../assets/images/jay-z.png
 category: Lessons
 description: “I can’t help the poor if I’m one of them, so I got rich and gave
   back. To me that’s a win-win.”
-pubDate: 2024-07-14T17:45:00.000Z
+pubDate: 2024-07-16T01:45:00.000Z
 tags:
   - JayZ
   - Lessons
