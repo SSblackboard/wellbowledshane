@@ -3,7 +3,7 @@ title: Lessons - from Shul
 heroImage: ../../assets/images/shul.png
 category: Lessons
 description: Lesson from Shul
-pubDate: 2024-07-14T17:50:00.000Z
+pubDate: 2024-07-12T01:50:00.000Z
 tags:
   - Lessons
   - Shul
