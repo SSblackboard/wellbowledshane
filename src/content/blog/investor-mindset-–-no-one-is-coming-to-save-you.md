@@ -3,7 +3,7 @@ title: Investor Mindset – No one is coming to save you
 heroImage: ../../assets/images/investor.png
 category: Investor Mindset
 description: "This article is not about religion, it’s about a mindset of self-reliance. "
-pubDate: 2024-07-14T17:28:00.000Z
+pubDate: 2024-07-17T01:28:00.000Z
 tags:
   - Investors
   - self-reliance
