@@ -6,6 +6,9 @@ description: About Well Bowled Shane
 pubDate: 2024-07-23T11:46:00.000Z
 tags:
   - AboutMe
+  - Humour
+  - LifeHours
+  - ""
 ---
 I’m a reformed university lecturer and academic, I spent all of my university life studying, teaching and writing about finance and investment related topics. All of my professional experience has been in financial services, working in credit, insurance and savings products and services. 
 
