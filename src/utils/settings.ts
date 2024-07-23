@@ -20,6 +20,7 @@ export type SocialMediaLinks = {
 	github: string
 	noplace: string
 	other: string
+	bmac: string
 }
 export const getSettings = async () => {
 	const settingsCollection = await getCollection('site-settings')

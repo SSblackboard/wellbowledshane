@@ -9,7 +9,7 @@ import { siteConfig } from '@/data/site.config'
 
 const { socialMedia } = siteConfig
 
-const socialMediaArry = Object.entries(socialMedia).map(([name, url]) => ({ name, url }))
+const bmacLink = socialMedia.bmac || null
 ---
 
 <header class='relative flex items-center h-12 font-semibold'>
@@ -27,6 +27,19 @@ const socialMediaArry = Object.entries(socialMedia).map(([name, url]) => ({ name
 				<HeaderLink href='/tags' class='flex items-center gap-1 text-2xl md:text-base'>
 					<TagIcon /> Tags
 				</HeaderLink>
+				{
+					bmacLink ? (
+						<a
+							href={bmacLink}
+							class='ml-6 md:hidden'
+							target='_blank'
+							referrerpolicy='no-referrer'
+							rel='noreferrer'
+						>
+							buy me a coffee
+						</a>
+					) : null
+				}
 			</div>
 		</nav>
 	</div>
@@ -40,6 +53,13 @@ const socialMediaArry = Object.entries(socialMedia).map(([name, url]) => ({ name
 			<MenuIcon />
 			<span class='sr-only'>Show Menu</span>
 		</button>
+		{
+			bmacLink ? (
+				<div class='hidden md:block'>
+					<a href={bmacLink}>buy me a coffee</a>
+				</div>
+			) : null
+		}
 	</div>
 </header>
 <script>

@@ -55,4 +55,4 @@ collections:
           - {label: "Tiktok", name: "tiktok", widget: "string", required: false}
           - {label: "Github", name: "github", widget: "string", required: false}
           - {label: "noplace", name: "noplace", widget: "string", required: false}
-          - {label: "other", name: "other", widget: "string", required: false}
+          - {label: "Buy me a coffee", name: "bmac", widget: "string", required: false}

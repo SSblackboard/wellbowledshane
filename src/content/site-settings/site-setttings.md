@@ -18,5 +18,6 @@ socialMedia:
   github: ""
   noplace: ""
   other: ""
+  bmac: https://buymeacoffee.com/wellbowledshane
 pagination: 6
 ---
