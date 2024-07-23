@@ -20,9 +20,7 @@ If nothing else, I hope you have one or two chuckles about my weird money quirks
 
 **If you enjoy this Blog, any donation to ‘keep the lights’ on would be most appreciated: https://www.buymeacoffee.com/wellbowledshane**  
 
-
-
-If you’d like to get in touch with me, drop me an email [here](wellbowledshaneblog@gmail.com).
+If you’d like to get in touch with me, drop me an email on: wellbowledshaneblog@gmail.com 
 
 **Follow the blog on socials here:** 
 
