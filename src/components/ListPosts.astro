@@ -20,6 +20,11 @@ const { posts, FirstBig = false } = Astro.props
 	{
 		posts.map(async (post) => {
 			const { remarkPluginFrontmatter } = await post.render()
+			//hacky workaround, can make a post a page.
+			// client did not want money spent on new page template...
+			if (post.data?.isPage) {
+				return
+			}
 
 			return (
 				<PostCard

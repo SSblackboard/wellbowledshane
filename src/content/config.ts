@@ -13,7 +13,8 @@ const blog = defineCollection({
 				.transform((val) => new Date(val)),
 			heroImage: image(),
 			category: z.string() || z.string().transform((value) => value.trim().split(',')),
-			tags: z.array(z.string()) || z.string().transform((value) => value.trim().split(','))
+			tags: z.array(z.string()) || z.string().transform((value) => value.trim().split(',')),
+			isPage: z.boolean().optional()
 		})
 })
 
