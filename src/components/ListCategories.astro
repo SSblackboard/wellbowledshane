@@ -1,7 +1,9 @@
 ---
-import { getCategories } from '@/utils'
+import { getCategories, getPages } from '@/utils'
 import Category from '@/components/Category'
+import Page from '@/components/Page'
 const categories = await getCategories()
+const pages = await getPages()
 
 const { activeCategory } = Astro.props
 ---
@@ -13,6 +15,8 @@ const { activeCategory } = Astro.props
 			<Category name={category} activeCategory={activeCategory} />
 		))
 	}
+
+	{pages?.map((page) => <Page name={page} activeCategory={activeCategory} />)}
 
 	<div class='hidden sm:block absolute w-full bottom-0 border-b-2 -z-40 dark:border-gray-600'></div>
 </div>
