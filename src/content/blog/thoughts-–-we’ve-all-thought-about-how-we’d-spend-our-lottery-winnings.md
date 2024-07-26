@@ -16,7 +16,7 @@ tags:
 ---
 I don’t know about you but each time I buy a lottery ticket, which I admit is probably more often that it ought to be, I can’t hep but wonder what I would do with the winnings. I bought a ticket for the Powerball jackpots that was $100 million. Imagine what you could do with that amount of money…
 
-If I won the $100 million lottery Powerball, this is what I’d do (you’ll soon realise If spent probably an unhealthy amount of time thinking about this).
+If I won the $100 million lottery Powerball, this is what I’d do (you’ll soon realise If spent probably an unhealthy amount of time thinking about this). 
 
 Not many people would know I’d won. I’d tell my wife and that’s probably about it…initially. Can you imagine how many “new friends” you’ll have suddenly when you’re on the front page of the news having won $100 million. 
 
