@@ -8,6 +8,7 @@ tags:
   - Containers4Change
   - LifeHours
   - AboutMe
+isPage: true
 ---
 I’m a reformed university lecturer and academic, I spent all of my university life studying, teaching and writing about finance and investment related topics. All of my professional experience has been in financial services, working in credit, insurance and savings products and services. 
 
