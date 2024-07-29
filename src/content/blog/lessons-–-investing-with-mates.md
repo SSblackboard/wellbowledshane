@@ -1,5 +1,5 @@
 ---
-title: Lessons – Investing with Mates
+title: Investing with Mates
 heroImage: ../../assets/images/investing-with-mates.png
 category: Lessons
 description: A few years ago, I was involved in a private property investment
