@@ -1,5 +1,5 @@
 ---
-title: "Red Flags – Image isn’t everything, behaviour is. "
+title: "Image isn’t everything, behaviour is. "
 heroImage: ../../assets/images/image-and-wealth.png
 category: Red Flags
 description: In my younger years, I used to be impressed with image. How a
