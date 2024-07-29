@@ -1,5 +1,5 @@
 ---
-title: Lessons – From Jay-Z
+title: A lesson from Jay-Z
 heroImage: ../../assets/images/jay-z.png
 category: Lessons
 description: “I can’t help the poor if I’m one of them, so I got rich and gave
