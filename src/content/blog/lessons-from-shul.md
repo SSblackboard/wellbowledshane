@@ -1,5 +1,5 @@
 ---
-title: Lessons - from Shul
+title: A lesson from Shul
 heroImage: ../../assets/images/shul.png
 category: Lessons
 description: Lesson from Shul
