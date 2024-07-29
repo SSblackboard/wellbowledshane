@@ -1,5 +1,5 @@
 ---
-title: "Investor Mindset – What separates me from Warren Buffet? "
+title: "What separates me from Warren Buffet? "
 heroImage: ../../assets/images/warren-buffet.png
 category: Investor Mindset
 description: "Whenever I teach a finance class I try to throw in this question,
