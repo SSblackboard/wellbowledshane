@@ -1,5 +1,5 @@
 ---
-title: Red Flags – Nothing good happens after 10:30
+title: Nothing good happens after 10:30
 heroImage: ../../assets/images/pepsi.png
 category: Red Flags
 description: This is a bit of a weird one and to be honest I’m not sure about
