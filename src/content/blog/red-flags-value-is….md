@@ -1,5 +1,5 @@
 ---
-title: "Red Flags - Value is… "
+title: "Value is… "
 heroImage: ../../assets/images/value.png
 category: Red Flags
 description: "In the finance classes I teach at University, I often arrive at a
