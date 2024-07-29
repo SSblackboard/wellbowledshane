@@ -1,5 +1,5 @@
 ---
-title: Investor Mindset - The house always wins
+title: The house always wins
 heroImage: ../../assets/images/the-house-always-wins.png
 category: Investor Mindset
 description: "“The house always wins” is a saying that’s intrigued and bothered
