@@ -1,5 +1,5 @@
 ---
-title: Red Flags - Trust me, we’ve just met.
+title: Trust me, we’ve just met.
 heroImage: ../../assets/images/trust-me.png
 category: Red Flags
 description: "What do Private Equity (PE) investors and criminal gangs have in
