@@ -1,5 +1,5 @@
 ---
-title: Red Flags - More jewellery equals less wealth.
+title: More jewellery equals less wealth.
 heroImage: ../../assets/images/red-flag.png
 category: Red Flags
 description: This is happening and is a real thing – in my head
