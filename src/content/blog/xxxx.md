@@ -1,5 +1,5 @@
 ---
-title: "Lessons - Sell shovels "
+title: "Sell shovels "
 heroImage: ../../assets/images/selling-shovels.png
 category: Lessons
 description: "“During a gold rush, sell shovels” is a quote connected with the
