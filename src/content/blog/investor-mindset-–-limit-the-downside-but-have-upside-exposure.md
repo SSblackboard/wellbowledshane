@@ -1,5 +1,5 @@
 ---
-title: Investor Mindset – Limit the downside but have upside exposure.
+title: Limit the downside but have upside exposure.
 heroImage: ../../assets/images/limit-the-downside.png
 category: Investor Mindset
 description: "Studying Private Equity Investors approaches and methodologies
