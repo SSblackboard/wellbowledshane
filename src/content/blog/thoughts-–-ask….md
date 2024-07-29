@@ -1,5 +1,5 @@
 ---
-title: Thoughts – Ask…
+title: Ask…
 heroImage: ../../assets/images/ask.png
 category: Thoughts
 description: "Ask, what’s the worst that can happen? "
