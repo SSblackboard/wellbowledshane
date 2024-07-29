@@ -1,5 +1,5 @@
 ---
-title: Thoughts - Blossom
+title: Blossom
 heroImage: ../../assets/images/blossom-logo.png
 category: Thoughts
 description: It all matters, the 15c a day matters!
