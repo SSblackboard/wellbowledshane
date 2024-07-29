@@ -1,5 +1,5 @@
 ---
-title: Thoughts – Doctor
+title: Doctor?
 heroImage: ../../assets/images/doctors.png
 category: Thoughts
 description: I hope this article doesn’t annoy anyone who has done their PhD...
