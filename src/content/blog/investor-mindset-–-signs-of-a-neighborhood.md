@@ -1,5 +1,5 @@
 ---
-title: "Investor Mindset – Signs of a neighborhood "
+title: "Signs of a good and bad neighborhood "
 heroImage: ../../assets/images/neighborhood-.png
 category: Investor Mindset
 description: "I have mental rules, call them shortcuts, call them biases – but
