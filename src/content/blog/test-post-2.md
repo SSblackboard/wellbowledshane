@@ -1,5 +1,5 @@
 ---
-title: Thoughts - This is how I think about money
+title: This is how I think about money
 heroImage: ../../assets/images/life-hours.png
 category: Thoughts
 description: I’m exchange my finite life for a pay cheque
