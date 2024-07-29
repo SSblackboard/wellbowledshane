@@ -1,5 +1,5 @@
 ---
-title: Thoughts – We’ve all thought about how we’d spend our lottery winnings
+title: We’ve all thought about how we’d spend our lottery winnings
 heroImage: ../../assets/images/lottery.webp
 category: Thoughts
 description: I don’t know about you but each time I buy a lottery ticket, which
