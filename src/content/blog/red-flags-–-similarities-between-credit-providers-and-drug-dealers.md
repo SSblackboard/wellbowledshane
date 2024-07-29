@@ -1,5 +1,5 @@
 ---
-title: Red Flags – Similarities between credit providers and drug dealers
+title: Similarities between credit providers and drug dealers
 heroImage: ../../assets/images/credit-cards-and-drug-dealers.png
 category: Red Flags
 description: "I’m not saying credit providers and drug dealers are the same… "
