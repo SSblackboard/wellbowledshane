@@ -1,5 +1,5 @@
 ---
-title: Red Flags - Never trust a man who wears a Pinky ring.
+title: Never trust a man who wears a Pinky ring.
 heroImage: ../../assets/images/pinky-ring.png
 category: Red Flags
 description: "I don’t know why this is true for me and it’s a weird one. I have
