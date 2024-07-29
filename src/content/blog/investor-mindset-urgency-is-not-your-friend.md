@@ -1,5 +1,5 @@
 ---
-title: Investor Mindset - Urgency is not your friend
+title: Urgency is not your friend
 heroImage: ../../assets/images/urgency-is-not-your-friend.png
 category: Investor Mindset
 description: When I’m are considering making an investment, urgency and speed to
