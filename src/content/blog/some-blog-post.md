@@ -1,5 +1,5 @@
 ---
-title: Lessons – Zero waste culture
+title: Zero waste culture
 heroImage: ../../assets/images/positive-family.png
 category: Lessons
 description: This is probably a pedantic post, I’ll admit. But its important to
