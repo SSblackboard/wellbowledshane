@@ -1,5 +1,5 @@
 ---
-title: "Thoughts – It is, What It Is… "
+title: "It is, What It Is… "
 heroImage: ../../assets/images/optimism.png
 category: Thoughts
 description: "Have you ever had a saying, that irritates you. I mean a saying
