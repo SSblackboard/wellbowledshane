@@ -1,5 +1,5 @@
 ---
-title: Lessons - Never trust a professional who earns off a single transaction
+title: Never trust a professional who earns off a single transaction
 heroImage: ../../assets/images/trust.png
 category: Lessons
 description: "I’ve always been sceptical of any professional that earns their
