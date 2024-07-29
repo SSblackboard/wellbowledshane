@@ -1,5 +1,5 @@
 ---
-title: Thoughts - Containers for change
+title: Containers for change
 heroImage: ../../assets/images/c4c.png
 category: Thoughts
 description: "I don’t know about you or if I’m alone in this weird money habit
