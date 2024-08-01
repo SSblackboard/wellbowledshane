@@ -2,6 +2,7 @@
 import { siteConfig } from '@/data/site.config'
 import TwitterColorIcon from './icons/TwitterColorIcon.astro'
 import LinkedinIcon from './icons/linkedinIcon.astro'
+import SubscriptionForm from './SubscriptionForm.astro'
 const message = siteConfig.shareMessage
 
 const URL = Astro.url.href
@@ -26,3 +27,4 @@ const URL = Astro.url.href
 		</li>
 	</ul>
 </div>
+<SubscriptionForm />
