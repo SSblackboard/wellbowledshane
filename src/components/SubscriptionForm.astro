@@ -18,7 +18,7 @@ import MailIcon from './icons/MailIcon.astro'
 					<label for='mce-EMAIL'>Email Address</label><input
 						type='email'
 						name='EMAIL'
-						class='required email w-full py-2 px-4 rounded text-neutral-900'
+						class='required email w-full py-2 px-4 rounded text-neutral-900 bg-white'
 						id='mce-EMAIL'
 						required=''
 						value=''
@@ -34,16 +34,8 @@ import MailIcon from './icons/MailIcon.astro'
 				</div>
 				<div class='optionalParent'>
 					<div class='clear foot py-2 w-full'>
-						<!-- <input
-							type='submit'
-							name='subscribe'
-							id='mc-embedded-subscribe'
-							class='button'
-							value='Subscribe'
-						/> -->
-
 						<button
-							class='w-full bg-indigo-600 hover:bg-indigo-400 text-white font-semibold py-2 px-4 rounded inline-flex justify-center'
+							class='w-full bg-pop border-2 border-pop transition-all text-white font-semibold py-2 px-4 rounded inline-flex justify-center hover:bg-transparent hover:border-2 hover:border-white'
 							type='submit'
 						>
 							<MailIcon />
