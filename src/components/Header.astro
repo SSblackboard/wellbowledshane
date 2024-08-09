@@ -40,6 +40,7 @@ const bmacLink = socialMedia.bmac || null
 						</a>
 					) : null
 				}
+				<a href={'/subscribe'} class='ml-6 md:hidden'> subscribe</a>
 			</div>
 		</nav>
 	</div>
@@ -55,9 +56,24 @@ const bmacLink = socialMedia.bmac || null
 		</button>
 		{
 			bmacLink ? (
-				<div class='hidden md:block'>
-					<a href={bmacLink}>buy me a coffee</a>
-				</div>
+				<>
+					<div class='hidden md:block'>
+						<a
+							href={bmacLink}
+							class='border-2 border-white rounded py-2 px-4 hover:bg-pop hover:border-pop transition-all'
+						>
+							buy me a coffee
+						</a>
+					</div>
+					<div class='hidden md:block'>
+						<a
+							href={'/subscribe'}
+							class='border-2 bg-pop border-pop rounded py-2 px-4 hover:bg-transparent hover:text-white hover:border-white transition-all'
+						>
+							Subscribe
+						</a>
+					</div>
+				</>
 			) : null
 		}
 	</div>
