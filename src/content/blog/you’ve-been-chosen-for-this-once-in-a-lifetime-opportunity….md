@@ -9,7 +9,7 @@ tags:
   - RedFlags
   - Humour
 ---
-Early in my career, I worked in banking and for a German Venture Capitalist work worked out of Chicago. It’s a weird one, I know. My German VC boss was named Dirk is probably the smartest but most direct person I’ve every worked with. Well read, experienced, being educate by an Ivy league institution and working in finance in Chicago. All round intimidating to a young fresh university undergraduate.
+Early in my career, I worked in banking and for a German Venture Capitalist who worked out of Chicago. It’s a weird one, I know. My German VC boss was named Dirk is probably the smartest but most direct person I’ve ever worked with. Well read, experienced, being educated by an Ivy league institution and working in finance in Chicago. All round intimidating to a young fresh university graduate.
 
 Having worked there for a few months, I was getting the hand of the systems, the processes and the ‘way we do business’ and overall enjoying it. 
 
@@ -34,7 +34,5 @@ After a few days of questioning myself, whether the opportunity was true or not,
 But this experience taught me one of my most valuable lessons. Asking why me, but more exactly asking the motivations of another person. Why would they approach me for this? Nothing comes easy and nothing worthwhile is easy… once in a lifetime opportunities don’t exist, they are marketing gimmicks used to sell to suckers. 
 
 Bill Gates famously said: “Buses are like opportunities, there’s always another one coming around.” 
-
-
 
 My Lesson: when you feel so special to be chosen by someone for a once in a lifetime opportunity – **beware… you’re the mark.**
